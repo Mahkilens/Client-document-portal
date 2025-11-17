@@ -93,7 +93,7 @@ Ideal for:
 If you'd like to connect or collaborate:  
 **GitHub:** (https://github.com/Mahkilens)
 **Instagram:** @Makhilens  
-**LinkedIn:** *(add your link if you want)*
+**LinkedIn:** (https://www.linkedin.com/in/marquis-prescott-a58852258/)
 
 ---
 
