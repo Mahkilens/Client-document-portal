@@ -84,7 +84,7 @@ Ideal for:
 ---
 
 ## 📊 System Architecture Diagram
-![Client Document Portal Diagram]([https://raw.githubusercontent.com/Makhilens/Client-document-portal/main/Client%20Document%20Portal%20(Web%20App).png](https://github.com/Mahkilens/Client-document-portal/blob/main/Client%20Document%20Portal%20(Web%20App).png)
+(https://github.com/Mahkilens/Client-document-portal/blob/main/Client%20Document%20Portal%20(Web%20App).png)
 
 ---
 
