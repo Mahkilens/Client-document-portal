@@ -91,7 +91,7 @@ Ideal for:
 
 ## 📫 Contact
 If you'd like to connect or collaborate:  
-**GitHub:** https://github.com/Makhilens  
+**GitHub:** (https://github.com/Mahkilens)
 **Instagram:** @Makhilens  
 **LinkedIn:** *(add your link if you want)*
 
