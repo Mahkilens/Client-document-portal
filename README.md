@@ -83,6 +83,12 @@ Ideal for:
 
 ---
 
+## 📊 System Architecture Diagram
+![Client Document Portal Diagram](https://raw.githubusercontent.com/Makhilens/Client-document-portal/main/Client%20Document%20Portal%20(Web%20App).png)
+
+---
+
+
 ## 📫 Contact
 If you'd like to connect or collaborate:  
 **GitHub:** https://github.com/Makhilens  
