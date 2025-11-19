@@ -95,13 +95,3 @@ If you'd like to connect or collaborate:
 **Instagram:** @Makhilens  
 **LinkedIn:** (https://www.linkedin.com/in/marquis-prescott-a58852258/)
 
----
-
-### 👍 If you want, I can:  
-- Add badges (React, JavaScript, Architecture, etc.)  
-- Add a “Features” section  
-- Add a clean folder structure template  
-- Write a polished GitHub bio to match  
-- Generate the first React component layout  
-
-Just tell me!
